@@ -1,0 +1,6 @@
+@Vishal_OneStream_HostAddress = http://localhost:5005
+
+GET {{Vishal_OneStream_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
